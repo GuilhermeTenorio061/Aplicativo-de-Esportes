@@ -1,0 +1,9 @@
+query = INSERT INTO videos (title, description, video_url, skill_id, duration, thumbnail_url)
+VALUES (
+  'Treino de Surf - Manobras Avançadas',
+  'Vídeo de treino focado em manobras avançadas de surf. Configure o link direto do vídeo do Google Drive.',
+  'https://drive.google.com/drive/recent',
+  '0be21993-3fdb-44da-87b7-52dcfb183e89',
+  600,
+  NULL
+)
